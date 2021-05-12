@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Svar Patel
-- 👀 I’m interested in Python, Java, Web Development, Machine Learning, Image Processing, Data Science and Almost all Latest TEcnology
+- 👀 I’m interested in Python, Java, Web Development, Machine Learning, Image Processing, Data Science and Almost all Latest Tecnology
 - 🌱 I’m currently learning Django
 - 💞️ I’m looking to collaborate on Wed Designing and DEvelopment
 - 📫 How to reach me 
