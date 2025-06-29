@@ -1,35 +1,60 @@
-# **Hey, I’m Svar 👋**
+# Svar Patel
 
-I'm a Computer Science grad student at **UMass Lowell** who loves building things — from smart recommendation systems to robot control interfaces. I'm that curious engineer who enjoys being a *jack of all trades and master of a chosen few* 🛠️
+CS Graduate Student @ UMass Lowell | AI/ML Engineer | Robotics Enthusiast
 
-### **💼 What I’ve been up to lately:**
+```bash
+$ whoami
+svar_patel: Building intelligent systems that actually work
+```
 
-* **Deep & Multi-Agent Reinforcement Learning:** Designed and implemented advanced DRL algorithms (PPO, A2C, Hierarchical RL) for diverse environments, including multi-agent coordination (e.g., StarCraft II, VMAS Football), continuous control, and strategic game AI (Chess).  
-* **Natural Language Processing & Generative AI:** Developed NLP applications leveraging Transformer models and Large Language Models (LLMs) for semantic understanding, including context-aware movie recommendation systems and intelligent comment classification.  
-* **Computer Vision & Advanced Deep Learning:** Explored and implemented cutting-edge architectures like Visual Transformers for image understanding, GANs for super-resolution, and CNNs for real-time ASL classification.  
-* **Robotics & Control Systems:** Engineered real-time control interfaces for TurtleBot 4 using ROS2 \+ PyQt and developed specialized kinematic path planning for custom robotic platforms with failsafe mechanisms.  
-* **Data-Driven Health Tech:** Created an Android app using wearable data (Empatica E4) to detect opioid usage.  
-* **Operating Systems Internals:** Gained a deeper understanding of system architecture by building a custom Xinu kernel from scratch.
+## 🎯 Current Focus
 
-### **💡 Tech I’m into:**
+**🤖 Deep Reinforcement Learning**  
+Multi-agent coordination (StarCraft II, VMAS Football), continuous control, strategic AI.  
+Algorithms: PPO, A2C, Hierarchical RL
 
-* **Languages:** Python, Java, C/C++, SQL, JavaScript  
-* **Frameworks:** TensorFlow, PyTorch, Flask, React, Node.js, OpenAI Gym, PySC2, SMACv2  
-* **Tools:** Git, Docker, AWS, Android Studio, VS Code, Postman  
-* **Concepts:** Machine Learning, Deep Learning (Reinforcement Learning, Multi-Agent RL, Transformers, GANs, CNNs), Natural Language Processing, Computer Vision, UI/UX Design, Distributed Systems, Robotics (ROS2), Operating Systems
+**🧠 NLP & Generative AI**  
+Transformer models, LLMs, semantic understanding.  
+Projects: Movie recommendation engines, intelligent comment classification
 
-### **🧠 I like solving problems where...**
+**👁️ Computer Vision**  
+Visual Transformers, GANs, CNNs.  
+Applications: Super-resolution, real-time ASL classification
 
-* Tech meets real-world impact (especially in health & robotics)  
-* There's room to mix creativity with code  
-* I can learn something new and slightly terrifying 😄
+**🦾 Robotics & Control**  
+TurtleBot 4 + ROS2, custom kinematic path planning.  
+Real-time control interfaces with failsafe mechanisms
 
-### **📫 Let's connect\!**
+**💡 Other Projects**  
+- Android health monitoring (opioid detection via Empatica E4)
+- Custom Xinu kernel implementation
+- Distributed systems architecture
 
-* 🧑‍💼 [LinkedIn](https://www.linkedin.com/in/svar-patel-305ba7175/)  
-* 🧠 [Check out my projects](https://github.com/svar7769)  
-* ✉️ Email me at: svarrajankumar\_patel@student.uml.edu
+## 🛠️ Tech Stack
 
-### **⚡ Fun Fact**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 
-If my code doesn’t work, it’s probably because I updating something.
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![ROS](https://img.shields.io/badge/ROS2-22314E?style=flat&logo=ros&logoColor=white)
+
+## 🔍 Interests
+- Systems that bridge AI research and real-world applications
+- Health technology and assistive robotics
+- Anything that challenges conventional approaches
+
+## 📫 Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/svar-patel-305ba7175/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/svar7769)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:svarrajankumar_patel@student.uml.edu)
