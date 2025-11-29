@@ -58,3 +58,7 @@ Real-time control interfaces with failsafe mechanisms
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/svar-patel-305ba7175/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/svar7769)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:svarrajankumar_patel@student.uml.edu)
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> <br><br>
+![](https://github-readme-stats-sigma-five.vercel.app/api?username=divij-pawar&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
