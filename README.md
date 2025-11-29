@@ -61,4 +61,4 @@ Real-time control interfaces with failsafe mechanisms
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> <br><br>
-![](https://github-readme-stats-sigma-five.vercel.app/api?username=divij-pawar&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats-sigma-five.vercel.app/api?username=Svar7769&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
